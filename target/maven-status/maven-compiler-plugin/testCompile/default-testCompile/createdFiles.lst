@@ -1,0 +1,10 @@
+com\hogwrts\testcase\BaseCase.class
+seleniumTest.class
+com\hogwrts\testcase\MyTest.class
+com\hogwrts\testcase\UploadFIleTest.class
+com\hogwrts\testcase\UploadTest.class
+com\hogwrts\testcase\LoingAiTest.class
+com\hogwrts\testcase\JsTest.class
+com\hogwrts\testcase\AletTest.class
+com\hogwrts\testcase\BrowserTest.class
+com\hogwrts\testcase\InteractiveTest.class
